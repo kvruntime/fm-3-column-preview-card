@@ -37,7 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/kvruntime/frontendmentor-3-column-preview-card](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [http://frontendmentor-3-column-preview-card.vercel.app/](https://your-live-site-url.com)
 
 
 ## Author
